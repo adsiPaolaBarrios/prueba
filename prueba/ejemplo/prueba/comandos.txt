@@ -1,9 +1,0 @@
-cd para entrar a una carpeta
-ls para listar el contenido de la carpeta
-nano para editar desde la consola
-enter para guardar 
-rm para eliminar archivos
-rm -r para eliminar una carpeta y todo su contenido
-cp para copiar un archivo
-cp -r para copiar una carpeta y todo su contenido
-mkdir -p para crear una carpeta 
